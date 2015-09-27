@@ -3,6 +3,7 @@
 Coursera assignment for the course that I am auditing (no certificate)
 
 
+
 In this project I sought to create one R script called run_analysis.R that does the following: 
 
 Merge the training and the test sets to create one data set.
