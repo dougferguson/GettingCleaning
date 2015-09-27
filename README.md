@@ -1,8 +1,7 @@
 # Getting and Cleaning Data
 
-Coursera assignment for the course that I am auditing (no certificate)
-
-
+<b>Coursera assignment for the course that I am auditing (no certificate)</b>
+<br><br>
 
 In this project I sought to create one R script called run_analysis.R that does the following: 
 
