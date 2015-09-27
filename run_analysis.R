@@ -57,3 +57,4 @@ tidy <-  aggregate(buffer[, names(buffer) != c("activityID", "subjectID")], by =
 tidy <- merge(tidy, activity_labels, by = "activityID")
 
 View(tidy)
+write.table(tidy, './tidy.txt', row.names=FALSE, sep='\t')
